@@ -1,10 +1,5 @@
 # Guía de Nápoles
 
-Guía actualizada con itinerario, 47 sitios enlazados a Google Maps, previsión consultada el 20/09/2026, ropa y consejos de pagos y transporte.
+https://jmansilla3d.github.io/napoles-guia-viaje/
 
-Vueling: BCN–NAP, miércoles 23/09 a las 16:45; NAP–BCN, lunes 28/09 a las 13:10. Checkout 10:00. Desayuno en Ciorfito y taxi al aeropuerto. La llegada del miércoles a las 19:30 procede del primer mensaje y debe cotejarse con el billete.
-
-Descarga index.html y ábrelo en un navegador. Incluye buscador e impresión a PDF. Los enlaces requieren internet. La previsión no se actualiza automáticamente. No se han realizado reservas.
-
-Llegada al hotel confirmada. Cena del miércoles a las 22:00: Trianon (hasta 23:30), Da Michele (hasta 23:00, según cola) o Di Matteo (hasta 23:30). Horarios publicados, sin reserva ni última comanda confirmada.
-`nDiseño visual adaptado al móvil: pestañas por día, 29 visitas con fotografías integradas y filtros de lugares. Créditos y licencias junto a cada foto.
+Actualizada el 21/09/2026. Pompeya imprescindible el sábado 26, salida del hotel 09:00; Vesubio el domingo 27. Mapa ilustrado con visitas y restaurantes, valoraciones de Google Maps y enlaces. Horarios de transporte estimados; no se han realizado reservas.
