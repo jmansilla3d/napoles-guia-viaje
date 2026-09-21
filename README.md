@@ -2,4 +2,4 @@
 
 https://jmansilla3d.github.io/napoles-guia-viaje/
 
-Actualizada el 21/09/2026. Pompeya imprescindible el sábado 26, salida del hotel 09:00; Vesubio el domingo 27. Mapa ilustrado con visitas y restaurantes, valoraciones de Google Maps y enlaces. Horarios de transporte estimados; no se han realizado reservas.
+Restaurantes y cafés de base con Google ≥ 4,5. Museo delle Arti Sanitarie el jueves a las 10:00, pendiente de reserva. Pompeya sábado y Vesubio domingo. Mapa ilustrado: numeración por lugares, no ranking. Actualizado 21/09/2026.
